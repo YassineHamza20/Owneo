@@ -17,7 +17,9 @@ npm install
 # Start development server
 npm run dev
 
+
 # Preview production build
+npm run build
 npm run preview
 ```
 
